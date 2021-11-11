@@ -3,3 +3,4 @@
 ローカル リピで変更
 conflictで変更
 conflict-remote上で更新
+自分のリポジトリで更新
